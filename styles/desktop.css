@@ -1,0 +1,19 @@
+body {
+  letter-spacing: 0.135;
+}
+
+.keep-track ul {
+  min-width: 350px;
+  margin-left: 110px;
+  padding-top: 30px;
+}
+
+.keep-track img {
+  max-width: unset;
+}
+
+.supercharge-workflow .feature {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+}
